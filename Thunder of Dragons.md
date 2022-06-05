@@ -141,7 +141,7 @@ We went to the market and purchased some items. Orlin's were:
 * Decanter of Endless Water (700).
 * Barrier Tattoo (rare) for 2000 (the very rare was 20,000).
 
-We speculated that our
+We speculated that our portal could be used as access to sell wood in the place of air.
 
 
 # Inspiration Count
