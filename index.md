@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Thunder of Dragons
 
 You can use the [editor on GitHub](https://github.com/uglyviking/Thunder-of-Dragons/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
