@@ -1,5 +1,3 @@
-
-
 # Beginning Arc
 ## Session 5 – Nandar Keep - 11/20/21
 They had a really hard time killing Gumgum. 
