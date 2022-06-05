@@ -115,25 +115,36 @@ Upon arriving to the castle found it to be occupied by Orcs with wolf companions
 ## Session 2 - Taking the Castle - 5/22/22
 After defeating the chimera and the juggernauts we looked around for loot and found 20gp and two potions. 
 We proceeded to the dorms and found and found 500 gold pieces. 
-We went up the south tower and found the ghost of [Lord Arad][]. Orlin took Aerin into the watch space and decided to have Aerin allow possession. He was allowed to know about defenses but not to share with the group. 
+We went up the south tower and found the ghost of [Lord Arad](https://github.com/uglyviking/Thunder-of-Dragons/blob/master/Thunder%20of%20Dragons.md#lord-arad). Orlin took Aerin into the watch space and decided to have Aerin allow possession. He was allowed to know about defenses but not to share with the group. 
 
 ## Session 3 - Djinn and Ifrit
 ## Session 4 - Plane of Air - 6/3/22
+**Starting XP: ????? | 20,086**
+
 After defeating the Ifrit ([Abad-ar-Rahim][]) we explored the other tertiary rooms discovering some items:
 * 2 mindstones (3),(1)
 * Potion of Invisibility
 * Vial of Deadly Poison
 * Chest containing 500 Mithril coins bearing the image of Bearomar. Mithril=10PP
 
-Bear communicates with [Kidney][Kidney Beans] finding that they are in the plane of air. The luck had been taken by a crew under the service of [Halififth][]. They are being held. 
+Bear communicates with [Kidney](https://github.com/uglyviking/Thunder-of-Dragons/blob/master/Thunder%20of%20Dragons.md#kidney-beans) finding that they are in the plane of air. The luck had been taken by a crew under the service of [Halififth][]. They are being held. 
 
-The group continues to distrust [Lord Arad][] feeling he is not entirely forthcoming regarding his plans and we risk giving him what he wants by defeating [Sacha][Sacha Baron of Cohen]. 
+The group continues to distrust [Lord Arad](https://github.com/uglyviking/Thunder-of-Dragons/blob/master/Thunder%20of%20Dragons.md#lord-arad) feeling he is not entirely forthcoming regarding his plans and we risk giving him what he wants by defeating [Sacha](https://github.com/uglyviking/Thunder-of-Dragons/blob/master/Thunder%20of%20Dragons.md#sacha-baron-of-cohen). 
 
-Using the Detect Thoughts spell Orlin was able to tap into [Arad's][Lord Arad] mind. While Aerin questioned him Orlin was able to best him in several intelligence contests. It was revealed to Orlin that he had hidden an enchanted flask that would capture [Sacha][Sacha Baron of Cohen] upon his defeat.
+Using the Detect Thoughts spell Orlin was able to tap into [Arad's](https://github.com/uglyviking/Thunder-of-Dragons/blob/master/Thunder%20of%20Dragons.md#lord-arad) mind. While Aerin questioned him Orlin was able to best him in several intelligence contests. It was revealed to Orlin that he had hidden an enchanted flask that would capture [Sacha](https://github.com/uglyviking/Thunder-of-Dragons/blob/master/Thunder%20of%20Dragons.md#sacha-baron-of-cohen) upon his defeat. Orlin presented this to the party and the Baron. With the help of Bear and Aerin they smashed the enchanted flask removing its danger.
 
+For efforts in saving him, the Baron offers us one wish. The party wished together for "*the castle to be fully repaired and fully staffed.*" Aerin dueled the Baron reducing his HIT points to 0 and releasing [Arad](https://github.com/uglyviking/Thunder-of-Dragons/blob/master/Thunder%20of%20Dragons.md#lord-arad) to the afterlife "you fools" he shouted in anger. [Sacha](https://github.com/uglyviking/Thunder-of-Dragons/blob/master/Thunder%20of%20Dragons.md#sacha-baron-of-cohen) was freed and departed as well leaving the portal to the plane of air open.
 
-We meet the grand Caliph
-We are introduced to to [Harshnag][] the frost giant.
+After a long rest the party departed through the plane of air making our way to the Palace of Ice and Steel. Sacha, introduced us to his father, the [Grand Caliph](https://github.com/uglyviking/Thunder-of-Dragons/blob/master/Thunder%20of%20Dragons.md#grand-calip) of the plane of the Djinn. We convey word of the ordening breaking which grealty alarmed the court and encountered [Halififth](https://github.com/uglyviking/Thunder-of-Dragons/blob/master/Thunder%20of%20Dragons.md#halififth). He tells us we can take our airship back. A locate object spell reveals it is close by.
+
+As next steps we are introduced to to  the frost giant [Harshnag](https://github.com/uglyviking/Thunder-of-Dragons/blob/master/Thunder%20of%20Dragons.md#harshnag) who converses with us regarding the ordening. He was very much exasperated by the mention of Felgalos but found our witty naming of the ship entertaining. We found our ship empty but we were followed by a member of the crew of the Halififths Rage sent to spy on anyone approaching the ship. We forced him to take us to our crew and we released our people and reclaimed our treasure and items. The captain, an air genasi was angered and declared himself our enemy at which point combat ensues. Before we could finish him off he vanished. 
+
+We went to the market and purchased some items. Orlin's were:
+* Decanter of Endless Water (700).
+* Barrier Tattoo (rare) for 2000 (the very rare was 20,000).
+
+We speculated that our
+
 
 # Inspiration Count
 - [x] Inspiration 1
@@ -141,15 +152,34 @@ We are introduced to to [Harshnag][] the frost giant.
 
 # NPCs
 ## Leosin
+Harper angent working against the Cult of the Dragon. He has various contacts and sources of information.
 ## Lord Nandar
+## Felgalos
+Bronze dragon known from his extreme maladroitness. He lost his eggs and needed them returned.
+## Zephalos
 ## Kidney Beans
+Artificer originally held and forced to work for the Cult of the Dragon. She is a master mechanic who built a warforged body. She has since agreed to join our service and captain's our airship.
 ## Lord Arad
 Former lord at the Stormhold Castle. I highly intelligent wizard he has a deep hunger for power. It was found later he was a follower of Bane.
 ## Sacha Baron of Cohen
 Djinn trapped in the dungeon of the Stormhold. 
 ## Abad-ar-Rahim
 An Ifrit caught up in the summoning of a Djinn by Lord Arad. He returned upon another summoning and sought vengeance by slaying Arad's family.
+## Grand Caliph
 ## Harshnag
 Frost-giant emissary to the plane of air. We were introduced to him by the Caliph
 ## Halififth
 Air Genasi - Duke of the plane of air. We encountered him first when his crew took them luck and later in the presence of the Caliph. He told we may retrieve out ship.
+
+# Locations
+## Palace of Ice and Steel
+## Nightstone
+## Stormhold
+Castle high in the storm-horn mountains. As a reward from Felgalos
+
+# Factions
+## Harpers
+## Order of the Gauntlet
+## Emeral Enclave
+## Zentarim
+## Cult of the Dragon
