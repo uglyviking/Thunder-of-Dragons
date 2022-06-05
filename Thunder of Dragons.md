@@ -143,6 +143,8 @@ We went to the market and purchased some items. Orlin's were:
 * Decanter of Endless Water (700).
 * Barrier Tattoo (rare) for 2000 (the very rare was 20,000).
 
+We speculated that our
+
 
 # Inspiration Count
 - [x] Inspiration 1
@@ -150,8 +152,13 @@ We went to the market and purchased some items. Orlin's were:
 
 # NPCs
 ## Leosin
+Harper angent working against the Cult of the Dragon. He has various contacts and sources of information.
 ## Lord Nandar
+## Felgalos
+Bronze dragon known from his extreme maladroitness. He lost his eggs and needed them returned.
+## Zephalos
 ## Kidney Beans
+Artificer originally held and forced to work for the Cult of the Dragon. She is a master mechanic who built a warforged body. She has since agreed to join our service and captain's our airship.
 ## Lord Arad
 Former lord at the Stormhold Castle. I highly intelligent wizard he has a deep hunger for power. It was found later he was a follower of Bane.
 ## Sacha Baron of Cohen
@@ -163,7 +170,16 @@ An Ifrit caught up in the summoning of a Djinn by Lord Arad. He returned upon an
 Frost-giant emissary to the plane of air. We were introduced to him by the Caliph
 ## Halififth
 Air Genasi - Duke of the plane of air. We encountered him first when his crew took them luck and later in the presence of the Caliph. He told we may retrieve out ship.
+
 # Locations
 ## Palace of Ice and Steel
 ## Nightstone
 ## Stormhold
+Castle high in the storm-horn mountains. As a reward from Felgalos
+
+# Factions
+## Harpers
+## Order of the Gauntlet
+## Emeral Enclave
+## Zentarim
+## Cult of the Dragon
